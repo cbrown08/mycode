@@ -1,6 +1,6 @@
 # mycode (Project Title)
 
-Learning about Microservices and playing with Python
+Learning about Microservices and playing with Python. In addition I want to learn version control projects with git.
 
 ## Getting Started
 
